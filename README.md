@@ -14,9 +14,6 @@ Face-Find App is a Python tool that uses facial recognition to effortlessly orga
 - [Credits](#credits)
 - [License](#license)
 
-## Project Screenshot
-
-![GUI Preview](gui_preview.png)
 
 ## Motivation
 
@@ -94,11 +91,4 @@ The app then processes the images, moving the matching ones to the specified out
 - Progress bar for tracking processing status.
 - Error handling for a smooth user experience.
 
-## Credits
-
-- Developed by [Nikhil Nagpure]
-
-## License
-
-This project is licensed under the [Apache 2.0](LICENSE).
 
