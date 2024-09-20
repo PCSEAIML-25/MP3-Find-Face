@@ -11,8 +11,6 @@ Face-Find App is a Python tool that uses facial recognition to effortlessly orga
 - [Installation and Usage](#installation-and-usage)
 - [How to Run](#how-to-install-and-run)
 - [Features](#features)
-- [Credits](#credits)
-- [License](#license)
 
 
 ## Motivation
