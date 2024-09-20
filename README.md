@@ -41,21 +41,16 @@ The app then processes the images, moving the matching ones to the specified out
    Python is usually pre-installed on macOS and many Linux distributions. Open a terminal and type python3 or python to
    check if it's already installed.
    If not installed, you can install it using the package manager for your system.
-
-3. Clone the repository:
-
-    ```bash
-    git clone https://github.com/5h4d0wn1k/photo-organizer.git
-    cd photo-organizer
-    ```
-
-4. Install the required dependencies:
+   
+2. Download Files
+   
+3. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-5. Run the application:
+4. Run the application:
 
     ```bash
     python main.py
